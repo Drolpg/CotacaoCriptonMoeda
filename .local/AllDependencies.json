@@ -7573,9 +7573,9 @@
     "restore": {
       "projectUniqueName": "CotacaoBitcoin",
       "projectName": "CotacaoBitcoin",
-      "projectPath": "C:\\Users\\tecnicos11\\Documents\\UiPath\\CotacaoCriptonMoeda\\CotacaoBitcoin\\.local",
+      "projectPath": "C:\\Users\\tecnicos11\\Documents\\UiPath\\CotacaoCriptonMoeda\\.local",
       "packagesPath": "C:\\Users\\tecnicos11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tecnicos11\\Documents\\UiPath\\CotacaoCriptonMoeda\\CotacaoBitcoin\\.local"
+      "outputPath": "C:\\Users\\tecnicos11\\Documents\\UiPath\\CotacaoCriptonMoeda\\.local"
     },
     "frameworks": {
       "net461": {

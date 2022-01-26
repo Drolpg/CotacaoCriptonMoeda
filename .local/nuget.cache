@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oP9tmkDI4F7WqFBeIM3hkFg7rCzWKUNmel03Kgw+DBylfIa4tBzL6/vAltViUPvpGaYdB/VhZMkcB8XX9wrx5Q==",
+  "dgSpecHash": "bjfZ8uexmFyQVBXJSKb4LpXYU8Jj1kf8lSbG+ItUE7C32KIomfnK+JDZem8cupz3NeUax9rbKmrXF5d5/2AEfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tecnicos11\\Documents\\UiPath\\CotacaoCriptonMoeda\\CotacaoBitcoin\\.local\\",
+  "projectFilePath": "C:\\Users\\tecnicos11\\Documents\\UiPath\\CotacaoCriptonMoeda\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\tecnicos11\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\tecnicos11\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
