@@ -1,2 +1,2 @@
 # CotacaoCriptonMoeda
-automação simples que extrai informações requeridas
+automação simples que extrai informações requeridas.
